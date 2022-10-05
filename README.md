@@ -22,7 +22,7 @@ You can view the site here
 
 ## Author
 
-Özge Coşkun Gürsucu (codermother)
+Agada Francis N.L (LouisTechnology LT)
 
 In the project directory, you can run:
 
